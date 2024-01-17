@@ -1,0 +1,4 @@
+2024-01-17 13:29:06,658 unknown-host quarkus-with-panache-repository-dev.jar[7793] INFO  [io.quarkus] (Quarkus Main Thread) quarkus-with-panache-repository 1.0-SNAPSHOT on JVM (powered by Quarkus 3.6.5) started in 1.117s. Listening on: http://localhost:9090
+2024-01-17 13:29:06,660 unknown-host quarkus-with-panache-repository-dev.jar[7793] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2024-01-17 13:29:06,662 unknown-host quarkus-with-panache-repository-dev.jar[7793] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [agroal, cdi, config-yaml, hibernate-orm, hibernate-orm-panache, jdbc-h2, jdbc-postgresql, narayana-jta, resteasy-reactive, resteasy-reactive-jsonb, smallrye-context-propagation, vertx]
+2024-01-17 13:29:06,663 unknown-host quarkus-with-panache-repository-dev.jar[7793] INFO  [io.qua.dep.dev.RuntimeUpdatesProcessor] (Aesh InputStream Reader) Live reload total time: 1.213s 

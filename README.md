@@ -1,4 +1,5 @@
 # quarkus-with-panache-repository
+# To add ```yml format``` use mvn quarkus:add-extensions -Dextensions="config-yaml"
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
